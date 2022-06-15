@@ -1,4 +1,3 @@
-
 /*****************************************************************************/
 /* Arquivo: MyHoneyBee.ino | Versão 1.0 | Ano: 2022                          */
 /*---------------------------------------------------------------------------*/
@@ -7,8 +6,8 @@
 /* E-mail: sperotto@unemat.br                                                */
 /*---------------------------------------------------------------------------*/
 /*---------------------------------------------------------------------------*/
-/* Descrição: Código que demonstra como ligar dois sensores BMP280 no        */
-/* ESP32 usando protocolo SPI                                                */
+/* Descrição: Código fonte embarcado para monitoramento de uma colmeia de    */
+/* abelhas nativas usando um ESP32 e o servidor Adafruit IO                  */
 /*---------------------------------------------------------------------------*/
 /*                                                                           */
 /*    Compilador:                                                            */
