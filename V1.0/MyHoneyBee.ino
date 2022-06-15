@@ -23,7 +23,7 @@
 #include "DHT.h"
 #include "HX711.h"
 
-#define READ_DELAY 10
+#define READ_DELAY 58
 
 /**********************************************/
 /* Definição dos pinos de ligação dos BMP280  */
