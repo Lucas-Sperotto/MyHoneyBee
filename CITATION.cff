@@ -3,7 +3,7 @@ message: "If you use this software, please cite it as below."
 authors:
 - family-names: "SPEROTTO"
   given-names: "LUCAS KRIESEL"
-  orcid: ""
+  orcid: "https://orcid.org/0000-0002-4941-7398"
 - family-names: "David"
   given-names: "Marcos Adriano da Silva"
   orcid: ""
