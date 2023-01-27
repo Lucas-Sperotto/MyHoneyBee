@@ -43,7 +43,7 @@ const float ESCALA = 668.62;
 /************************************/
 /* Instanciação do Cristal Liquido  */
 /************************************/
-LiquidCrystal lcd(12, 11, 5, 4, 3, 2); // Create An LCD Object. Signals: [ RS, EN, D4, D5, D6, D7 ]
+LiquidCrystal lcd(12, 11, 9, 8, 7, 6); // Create An LCD Object. Signals: [ RS, EN, D4, D5, D6, D7 ]
 
 /*********************************/
 /* Instanciação do Sensor DHT22  */
